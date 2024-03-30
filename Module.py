@@ -1,4 +1,4 @@
-# import Stone_Paper_Scissor
-# Stone_Paper_Scissor.solve()
+import Stone_Paper_Scissor
+Stone_Paper_Scissor.solve()
 
 
