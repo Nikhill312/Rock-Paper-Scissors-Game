@@ -1,6 +1,6 @@
 ## **Rock-Paper-Scissors Game**
 
-- Simple Python implementation with bascis of libraries ,functions, oops , etc.
+- Simple Python implementation with basics of libraries ,functions, oops , etc.
 - Player vs. Computer
 - Keeps track of wins and percentages
 
